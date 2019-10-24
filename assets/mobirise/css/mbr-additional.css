@@ -1116,6 +1116,9 @@ section.lazy-placeholder:after {
 .cid-rFMrFxPFsE .dropdown-item:hover {
   color: #767676 !important;
 }
+.cid-rFNaGaeDLE {
+  background-image: url("../../../assets/images/background4.jpg");
+}
 .cid-rFMu08IqpS {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -1140,4 +1143,243 @@ section.lazy-placeholder:after {
     width: auto;
     margin: auto;
   }
+}
+.cid-rFNaJGvZuH {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rFNaJGvZuH .mbr-text {
+  color: #767676;
+}
+.cid-rFNaJGvZuH h4 {
+  text-align: center;
+}
+.cid-rFNaJGvZuH p {
+  text-align: center;
+}
+.cid-rFNaJGvZuH .card-img span {
+  font-size: 96px;
+  color: #149dcc;
+}
+.cid-rFNbbe8Quv {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rFNbbe8Quv .progress {
+  width: 100%;
+}
+.cid-rFNbbe8Quv progress {
+  height: 8px;
+}
+.cid-rFNbbe8Quv h3 {
+  text-align: center;
+  font-weight: 300;
+}
+.cid-rFNbbe8Quv .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rFNbbe8Quv .progress_value {
+  position: relative;
+}
+.cid-rFNbbe8Quv .progress_elements {
+  margin: 0 auto;
+}
+.cid-rFNbbe8Quv .title-wrap {
+  display: flex;
+  justify-content: space-between;
+  -webkit-justify-content: space-between;
+}
+.cid-rFNbbe8Quv .progress1 .progressbar-number:before,
+.cid-rFNbbe8Quv .progress2 .progressbar-number:before,
+.cid-rFNbbe8Quv .progress3 .progressbar-number:before,
+.cid-rFNbbe8Quv .progress4 .progressbar-number:before {
+  position: absolute;
+  right: 15px;
+  top: 0;
+}
+.cid-rFNbbe8Quv progress[value]::-webkit-progress-bar {
+  background: rgba(206, 206, 206, 0.4);
+}
+.cid-rFNbbe8Quv progress::-webkit-progress-value {
+  background: #149dcc;
+}
+.cid-rFNbbe8Quv progress[value]::-moz-progress-bar {
+  background: #149dcc;
+}
+.cid-rFNbbe8Quv progress::-ms-fill {
+  background: #149dcc;
+}
+.cid-rFNbbe8Quv .progress1 .progressbar-number:before {
+  content: '70';
+}
+.cid-rFNbbe8Quv .progress2 .progressbar-number:before {
+  content: '80';
+}
+.cid-rFNbbe8Quv .progress3 .progressbar-number:before {
+  content: '90';
+}
+.cid-rFNbbe8Quv .progress4 .progressbar-number:before {
+  content: '100';
+}
+.cid-rFNbbe8Quv .progress-primary {
+  background: rgba(206, 206, 206, 0.4);
+  border: none;
+  outline: none;
+}
+.cid-rFNbbe8Quv .progress-primary::-webkit-progress-bar {
+  background: rgba(206, 206, 206, 0.4);
+}
+.cid-rFNbbe8Quv .progress_value span {
+  padding-left: 30px;
+}
+.cid-rFNbfw8f8L {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rFNbfw8f8L .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-rFNbfw8f8L .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-rFNbfw8f8L .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-rFNbfw8f8L .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-rFNbfw8f8L .row > .row {
+  display: block;
+}
+.cid-rFNbfw8f8L .mbr-gallery-item {
+  width: 100%;
+}
+.cid-rFNbfw8f8L .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-rFNbfw8f8L .mbr-gallery-item > div {
+  position: relative;
+}
+.cid-rFNbfw8f8L .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-rFNbfw8f8L .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
+}
+.cid-rFNbfw8f8L .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-rFNbfw8f8L .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  opacity: 0.7;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-rFNaZrpZXS {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-rFNaZrpZXS .row-links {
+  width: 100%;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-rFNaZrpZXS .social-row {
+  width: 100%;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-rFNaZrpZXS .media-container-row {
+  -webkit-flex-direction: column;
+  flex-direction: column;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+.cid-rFNaZrpZXS .media-container-row .foot-menu {
+  list-style: none;
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding: 0;
+  margin-bottom: 0;
+}
+.cid-rFNaZrpZXS .media-container-row .foot-menu li {
+  padding: 0 1rem 1rem 1rem;
+}
+.cid-rFNaZrpZXS .media-container-row .foot-menu li p {
+  margin: 0;
+}
+.cid-rFNaZrpZXS .media-container-row .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: flex-end;
+  justify-content: flex-end;
+}
+.cid-rFNaZrpZXS .media-container-row .social-list .mbr-iconfont-social {
+  font-size: 1.5rem;
+  color: #ffffff;
+}
+.cid-rFNaZrpZXS .media-container-row .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-rFNaZrpZXS .media-container-row .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-rFNaZrpZXS .media-container-row .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-rFNaZrpZXS .media-container-row .social-list {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+}
+.cid-rFNaZrpZXS .media-container-row .row-copirayt {
+  word-break: break-word;
+  width: 100%;
+}
+.cid-rFNaZrpZXS .media-container-row .row-copirayt p {
+  width: 100%;
 }
